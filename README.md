@@ -16,5 +16,5 @@ here you can specifically search for an ingredient or a dish you want
 
 API we will be using:
 
-1. search for Recipes based on the name https://spoonacular.com/food-api/docs#Search-Recipes-Complex
-2. search for Recipes based on ingredients
+1. search for Recipes based on the name: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
+2. search for Recipes based on ingredients: https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients
