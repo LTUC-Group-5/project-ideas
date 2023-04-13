@@ -2,7 +2,7 @@
 
 ## My Fridge
 
-A website that helps you to keep track of ingredients in your house and gives you a meal suggestions based on the current ingredients you have in your inventory
+A website that helps you to keep track of ingredients in your house and gives you a meal suggestion based on the current ingredients you have in your inventory
 
 ### Home Page
 ![Home](./assets/Home.png "Home Page")
