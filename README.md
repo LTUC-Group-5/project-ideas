@@ -11,7 +11,7 @@ here you receive a welcoming message and an option to get a meal suggestion base
 ![Alt text](./assets/inventory.png "My Fridge Page")
 here you can see a list of ingredients you currently have plus you can edit the amount of each ingredient 
 ### Search Page
-![Alt text](./assets/Home.png "Search Page")
+![Alt text](./assets/search.png "Search Page")
 here you can specifically search for an ingredient or a dish you want
 
 API we will be using:
